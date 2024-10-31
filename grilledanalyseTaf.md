@@ -86,5 +86,32 @@
 
 
 
+# La séquence
+Pour concrétiser cette séquence, le mieux serait de la structurer avec une narration immersive, comme une mini-histoire ou un fil conducteur motivant qui donnera une cohérence et un aspect dynamique à chaque étape. L’objectif est de donner aux apprenants le sentiment qu’ils progressent vers une finalité claire tout en créant un environnement de formation proche de la réalité. Voici quelques idées pour unir les modules et les rendre interactifs :
+
+## 1. Choix d’un fil rouge : l’informatique comme clé d’insertion professionnelle
+- **Contexte** : introduire la séquence avec un scénario où Dada, Shishi et Luca accueillent les apprenants en tant que "guides" ou "coachs" pour une mission d’insertion professionnelle.
+- **Mise en situation initiale** : les apprenants sont invités à rejoindre une formation avec ces trois personnages, chacun ayant une spécialité : Dada pour les compétences de base (utilisation de l’ordinateur), Shishi pour la communication numérique, et Luca pour les outils bureautiques et la préparation à la candidature.
+- **Objectif global** : chaque module représente une compétence-clé dans une mission de recherche d’emploi, et leur objectif est de suivre chaque étape pour accéder à un poste fictif final (ou réel, si les apprenants cherchent activement un emploi).
+
+## 2. Scénarisation de l’introduction et des transitions
+- **Introduction** : lancer la séquence avec une vidéo d’accueil où Dada, Shishi et Luca se présentent et expliquent l’objectif du programme. Cela ancre immédiatement les apprenants dans le processus et clarifie les objectifs.
+- **Transitions immersives** : créer de courtes introductions vidéo ou audio pour chaque module où le personnage correspondant explique son module et encourage les apprenants. Cela ajoute un aspect humain et engageant.
+- **Checkpoint** : à la fin de chaque module, intégrer un petit quiz ou un défi pour débloquer le module suivant. Cela encourage la progression et permet de vérifier la compréhension des apprenants.
+
+## 3. Gamification et suivi de progression
+- **Score de progression** : associer un score ou un badge pour chaque module complété, avec une page de progression visuelle. À la fin, tous les badges débloqués pourraient permettre aux apprenants de « valider » leur formation ou de gagner un certificat de participation.
+- **Challenge final** : après les modules individuels, organiser un « grand défi » où les apprenants utilisent tout ce qu’ils ont appris pour rédiger leur candidature complète et participer à une simulation d’entretien. Dada, Shishi et Luca peuvent introduire cette étape en donnant des conseils personnalisés.
+
+## 4. Intégration des outils numériques et des ressources
+- **Forum ou espace d’échange** : créer un forum où Dada, Shishi, et Luca « interagissent » (par l’enseignant ou des assistants) pour répondre aux questions, donner des conseils ou encourager les apprenants. Les forums permettent également aux apprenants de partager leurs expériences et d’enrichir le contenu.
+- **Supports multimédias et guides pratiques** : intégrer des tutoriels vidéo ou des captures d’écran pour chaque activité technique (ex. allumer l’ordinateur, créer un compte mail) et inclure des guides téléchargeables pour que les apprenants puissent les consulter en dehors du cours.
+
+## 5. Structure d'ouverture et de clôture de la séquence
+- **Clôture** : terminer avec un récapitulatif et un bilan des compétences acquises. Ce moment pourrait inclure une invitation à un forum de partage des candidatures ou des témoignages sur la progression. Pour ceux qui le souhaitent, Dada, Shishi et Luca pourraient donner des "conseils finaux" pour le marché du travail.
+
+En structurant la séquence avec une narration immersive et une progression gamifiée, on crée un parcours engageant et cohérent qui stimule la motivation et l’apprentissage des apprenants.
+
+
 
 _Ressource construite à partir d’une grille d’Elena Tea 2017-2018_
