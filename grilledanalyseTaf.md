@@ -85,11 +85,10 @@
   - Pistes de prolongement : Prévoir des supports pour aider les apprenants après la séquence, comme une fiche récapitulative des démarches administratives en cas d'embauche.
 
 
-
+<img src="images/lol.png" alt="le groupe" width="200px"/>
 
 # La séquence
-| --- | --- |
-| Pour concrétiser cette séquence, le mieux serait de la structurer avec une narration immersive, comme une mini-histoire ou un fil conducteur motivant qui donnera une cohérence et un aspect dynamique à chaque étape. L’objectif est de donner aux apprenants le sentiment qu’ils progressent vers une finalité claire tout en créant un environnement de formation proche de la réalité. Voici quelques idées pour unir les modules et les rendre interactifs : | <img src="images/lol.png" alt="le groupe" width="200px"/> |
+Pour concrétiser cette séquence, le mieux serait de la structurer avec une narration immersive, comme une mini-histoire ou un fil conducteur motivant qui donnera une cohérence et un aspect dynamique à chaque étape. L’objectif est de donner aux apprenants le sentiment qu’ils progressent vers une finalité claire tout en créant un environnement de formation proche de la réalité. Voici quelques idées pour unir les modules et les rendre interactifs :
 
 ## 1. Choix d’un fil rouge : l’informatique comme clé d’insertion professionnelle
 - **Contexte** : introduire la séquence avec un scénario où Dada, Shishi et Luca accueillent les apprenants en tant que "guides" ou "coachs" pour une mission d’insertion professionnelle.
