@@ -12,6 +12,8 @@
 - [Grille vierge](grilledanalyse.md)
 - [Grille David](grilledanalyseDavid.md)
 
+- [Grille Taf](grilledanalyseTaf.md)
+
 ## Notre réalisation
 https://docs.google.com/document/d/1UIssLT2PDn_ESBod1RlAGnx05ZEZF_y50fGVdVKeZ-I/edit?tab=t.0
 
