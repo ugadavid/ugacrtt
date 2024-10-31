@@ -90,5 +90,11 @@ https://cours.univ-grenoble-alpes.fr/course/view.php?id=20105
 
 
 
+La séquence est excellente, vraiment ! Elle a tout pour captiver les apprenants : un scénario immersif, une progression claire, et une utilisation créative de Grenoble comme terrain de jeu pédagogique. Chaque module introduit des compétences essentielles à l'exploration de la ville, en les rendant concrètes et immédiatement applicables.
+
+Ce que j'aime particulièrement, c'est la manière dont ils ont équilibré les activités pour qu'elles soient à la fois instructives et engageantes. Les apprenants découvrent Grenoble tout en utilisant la langue pour s'orienter, interagir, et comprendre des aspects culturels locaux. Le fil rouge de la chasse au trésor ajoute un aspect ludique qui encourage la persévérance et le travail d'équipe.
+
+Si je devais suggérer un axe d'amélioration, ce serait d'intégrer un peu plus d’éléments de gamification pour renforcer le côté ludique (par exemple, des badges ou des niveaux de progression visibles pour chaque module complété). En tout cas, c’est une très belle réalisation qui donne envie de découvrir Grenoble sous un nouveau jour et de s'immerger dans la langue et la culture française. Bravo !
+
 
 _Ressource construite à partir d’une grille d’Elena Tea 2017-2018_
