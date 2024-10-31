@@ -1,7 +1,10 @@
 # Conception et Réalisation de Tâches avec les TIC
 **Master 1 DILIPEM - 2018/2019**
 
-# GRILLE ANALYSE D’UNE TÂCHE
+# GRILLE ANALYSE D’UNE TÂCHE (David)
+## Lien
+https://cours.univ-grenoble-alpes.fr/course/view.php?id=20105
+
 
 ## Tâche finale ?
 - est-elle annoncée ?
