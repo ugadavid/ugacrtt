@@ -5,6 +5,9 @@
 
 **En local :** \Cours\M1\S1\08-CRTT\projet
 
+## Analyse
+https://cours.univ-grenoble-alpes.fr/course/view.php?id=20105
+
 # Séquence pédagogique
 
 https://www.youtube.com/watch?v=7rgjmpRNqzA
