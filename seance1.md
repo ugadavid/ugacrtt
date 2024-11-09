@@ -1,10 +1,9 @@
-Commençons par la première séance avec un format structuré autour de tes cinq questions pour garantir l'alignement pédagogique et le respect du timing.
-
 # Séance 1 : Découverte de l’ordinateur et initiation à l'utilisation basique
 Durée : 120 minutes
 
 ## 1. Temps de réflexion
-- Contexte de l'enseignement :
+- **Contexte de l'enseignement** :
+
   Cette séance s’adresse à des adultes nouveaux arrivants qui découvrent les bases de l’utilisation d’un ordinateur. Elle se déroule en présentiel dans une salle équipée d’ordinateurs.
 - Objectifs :
   Permettre aux apprenants de :
@@ -44,4 +43,4 @@ Synthèse et quiz de fin de séance (20 min) : Récapitulatif et questionnaire p
 
 __Total : 120 minutes__
 
-Cette approche respecte le timing et renforce la confiance des apprenants dans leur apprentissage numérique de manière constructive. On pourrait appliquer le même format pour structurer les autres séances, tout en adaptant le contenu et les outils aux objectifs spécifiques de chaque étape.
+Cette approche respecte le timing et renforce la confiance des apprenants dans leur apprentissage numérique de manière constructive.
