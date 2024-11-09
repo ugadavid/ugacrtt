@@ -1,6 +1,8 @@
 # Séance 4 : Vocabulaire et outils pour la recherche d’emploi
 Durée : 120 minutes
 
+**Nav** / [séance 1](seance1.md) | [séance 2](seance2.md) | [séance 3](seance3.md) | **séance 4** | [séance 5](seance5.md) | [séance 6](seance6.md) | [séance 7](seance7.md) | [séance 8](seance8.md) | [séance 9](seance9.md) | [séance 10](seance10.md) /
+
 ## 1. Temps de réflexion
 - **Contexte de l'enseignement** :<br>
 Cette séance, toujours en présentiel, initie les apprenants aux termes et expressions liés à la recherche d’emploi en France, ainsi qu’aux outils numériques permettant d’accéder aux offres.
@@ -46,3 +48,5 @@ Un quiz sur Moodle permet de vérifier la compréhension du vocabulaire, et un r
 __Total : 120 minutes__
 
 Cette organisation permet aux apprenants de maîtriser le vocabulaire nécessaire tout en explorant concrètement les outils de recherche d'emploi.
+
+**Nav** / [séance 1](seance1.md) | [séance 2](seance2.md) | [séance 3](seance3.md) | **séance 4** | [séance 5](seance5.md) | [séance 6](seance6.md) | [séance 7](seance7.md) | [séance 8](seance8.md) | [séance 9](seance9.md) | [séance 10](seance10.md) /

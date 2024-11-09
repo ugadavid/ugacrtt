@@ -1,6 +1,8 @@
 # Séance 5 : Connaître ses compétences et expériences
 Durée : 120 minutes
 
+**Nav** / [séance 1](seance1.md) | [séance 2](seance2.md) | [séance 3](seance3.md) | [séance 4](seance4.md) | **séance 5** | [séance 6](seance6.md) | [séance 7](seance7.md) | [séance 8](seance8.md) | [séance 9](seance9.md) | [séance 10](seance10.md) /
+
 ## 1. Temps de réflexion
 - **Contexte de l'enseignement** :<br>
 Cette séance, en présentiel, vise à aider les apprenants à identifier et valoriser leurs compétences et expériences professionnelles, y compris les expériences informelles ou de bénévolat.
@@ -48,3 +50,5 @@ Chaque apprenant soumet sa fiche d’inventaire sur Moodle. Une question réflex
 __Total : 120 minutes__
 
 Cette séance offre un cadre propice à la découverte et à la mise en valeur des compétences, tout en encourageant les échanges entre apprenants.
+
+**Nav** / [séance 1](seance1.md) | [séance 2](seance2.md) | [séance 3](seance3.md) | [séance 4](seance4.md) | **séance 5** | [séance 6](seance6.md) | [séance 7](seance7.md) | [séance 8](seance8.md) | [séance 9](seance9.md) | [séance 10](seance10.md) /

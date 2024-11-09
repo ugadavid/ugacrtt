@@ -1,5 +1,7 @@
 # Séquence
 
+**Nav** / [séance 1](seance1.md) | [séance 2](seance2.md) | [séance 3](seance3.md) | [séance 4](seance4.md) | [séance 5](seance5.md) | [séance 6](seance6.md) | [séance 7](seance7.md) | [séance 8](seance8.md) | [séance 9](seance9.md) | [séance 10](seance10.md) /
+
 ## Séance 1. Découverte de l’ordinateur et initiation à l'utilisation basique
 - **Objectifs** Découvrir le fonctionnement de base d'un PC (souris, clavier, bureau, fichiers)
 - **Activités** Allumer/éteindre un ordinateur, apprendre à naviguer dans le système de fichiers, utiliser le clavier pour écrire des phrases simples. (David)
@@ -39,3 +41,5 @@
 ## Séance 10. Simulation complète de candidature (synthèse finale)
 - **Objectifs** Mettre en pratique l’ensemble des compétences acquises (CV, lettre, mail, entretien).
 - **Activités** Les apprenants préparent une candidature complète pour un poste fictif ou réel (CV + lettre de motivation), simulent l'envoi de la candidature par mail, et terminent par une simulation d’entretien en classe.
+
+**Nav** / [séance 1](seance1.md) | [séance 2](seance2.md) | [séance 3](seance3.md) | [séance 4](seance4.md) | [séance 5](seance5.md) | [séance 6](seance6.md) | [séance 7](seance7.md) | [séance 8](seance8.md) | [séance 9](seance9.md) | [séance 10](seance10.md) /

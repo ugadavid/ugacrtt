@@ -1,6 +1,8 @@
 # Séance 7 : Rédiger un CV basique
 Durée : 120 minutes
 
+**Nav** / [séance 1](seance1.md) | [séance 2](seance2.md) | [séance 3](seance3.md) | [séance 4](seance4.md) | [séance 5](seance5.md) | [séance 6](seance6.md) | **séance 7** | [séance 8](seance8.md) | [séance 9](seance9.md) | [séance 10](seance10.md) /
+
 ## 1. Temps de réflexion
 - **Contexte de l'enseignement** :<br>
 Cette séance, en présentiel, introduit les bases de la création d’un CV, en aidant les apprenants à structurer leurs informations et à organiser leur parcours.
@@ -47,3 +49,5 @@ Chaque apprenant soumet son brouillon de CV pour obtenir des retours avant la pr
 __Total : 120 minutes__
 
 Cette séance permet aux apprenants de construire un CV en suivant des étapes simples et de bénéficier de retours constructifs pour l’améliorer.
+
+**Nav** / [séance 1](seance1.md) | [séance 2](seance2.md) | [séance 3](seance3.md) | [séance 4](seance4.md) | [séance 5](seance5.md) | [séance 6](seance6.md) | **séance 7** | [séance 8](seance8.md) | [séance 9](seance9.md) | [séance 10](seance10.md) /

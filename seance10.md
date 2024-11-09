@@ -1,6 +1,8 @@
 # Séance 10 : Simulation complète de candidature
 Durée : 120 minutes
 
+**Nav** / [séance 1](seance1.md) | [séance 2](seance2.md) | [séance 3](seance3.md) | [séance 4](seance4.md) | [séance 5](seance5.md) | [séance 6](seance6.md) | [séance 7](seance7.md) | [séance 8](seance8.md) | [séance 9](seance9.md) | **séance 10** /
+
 ## 1. Temps de réflexion
 - **Contexte de l'enseignement** :<br>
 Cette séance, en présentiel, vise à mettre en pratique toutes les compétences acquises en simulant une candidature complète, depuis la création d’un CV et d’une lettre de motivation jusqu’à l’envoi et l’entretien d’embauche.
@@ -46,3 +48,5 @@ Cette séance conclut par une évaluation informelle où Dada, Shishi, et Luca d
 __Total : 120 minutes__
 
 Cette dernière séance synthétise et consolide tout le parcours, offrant aux apprenants une expérience intégrative et réaliste pour les préparer efficacement au marché du travail. Félicitations pour l’achèvement de cette séquence !
+
+**Nav** / [séance 1](seance1.md) | [séance 2](seance2.md) | [séance 3](seance3.md) | [séance 4](seance4.md) | [séance 5](seance5.md) | [séance 6](seance6.md) | [séance 7](seance7.md) | [séance 8](seance8.md) | [séance 9](seance9.md) | **séance 10** /

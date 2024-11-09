@@ -1,6 +1,8 @@
 # Séance 9 : Préparation à un entretien d’embauche
 Durée : 120 minutes
 
+**Nav** / [séance 1](seance1.md) | [séance 2](seance2.md) | [séance 3](seance3.md) | [séance 4](seance4.md) | [séance 5](seance5.md) | [séance 6](seance6.md) | [séance 7](seance7.md) | [séance 8](seance8.md) | **séance 9** | [séance 10](seance10.md) /
+
 ## 1. Temps de réflexion
 - **Contexte de l'enseignement** :<br>
 Cette séance, en présentiel, prépare les apprenants à un entretien d’embauche en les aidant à se présenter de manière convaincante et à répondre aux questions les plus courantes.
@@ -44,3 +46,5 @@ Un retour final sur les performances de chaque apprenant est fourni en fin de s�
 __Total : 120 minutes__
 
 Cette séance aide les apprenants à se sentir plus confiants pour affronter un entretien d'embauche, grâce à une préparation pratique et à des retours constructifs.
+
+**Nav** / [séance 1](seance1.md) | [séance 2](seance2.md) | [séance 3](seance3.md) | [séance 4](seance4.md) | [séance 5](seance5.md) | [séance 6](seance6.md) | [séance 7](seance7.md) | [séance 8](seance8.md) | **séance 9** | [séance 10](seance10.md) /

@@ -1,6 +1,8 @@
 # Séance 6 : Découverte du marché du travail en France
 Durée : 120 minutes
 
+**Nav** / [séance 1](seance1.md) | [séance 2](seance2.md) | [séance 3](seance3.md) | [séance 4](seance4.md) | [séance 5](seance5.md) | **séance 6** | [séance 7](seance7.md) | [séance 8](seance8.md) | [séance 9](seance9.md) | [séance 10](seance10.md) /
+
 ## 1. Temps de réflexion
 - **Contexte de l'enseignement** :<br>
 Cette séance, en présentiel, introduit aux apprenants les particularités du marché du travail en France, incluant les types de contrats et les droits des travailleurs, ainsi que les attentes des employeurs.
@@ -49,3 +51,5 @@ Les explications et simulations sont en parfaite adéquation avec les objectifs 
 __Total : 120 minutes__
 
 Cette organisation permet aux apprenants de se familiariser avec les spécificités du marché du travail en France, un aspect crucial pour leur insertion professionnelle.
+
+**Nav** / [séance 1](seance1.md) | [séance 2](seance2.md) | [séance 3](seance3.md) | [séance 4](seance4.md) | [séance 5](seance5.md) | **séance 6** | [séance 7](seance7.md) | [séance 8](seance8.md) | [séance 9](seance9.md) | [séance 10](seance10.md) /

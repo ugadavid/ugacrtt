@@ -1,6 +1,8 @@
 # Séance 8 : Rédaction de la lettre de motivation
 Durée : 120 minutes
 
+**Nav** / [séance 1](seance1.md) | [séance 2](seance2.md) | [séance 3](seance3.md) | [séance 4](seance4.md) | [séance 5](seance5.md) | [séance 6](seance6.md) | [séance 7](seance7.md) | **séance 8** | [séance 9](seance9.md) | [séance 10](seance10.md) /
+
 ## 1. Temps de réflexion
 - **Contexte de l'enseignement** :<br>
 Cette séance, en présentiel, vise à accompagner les apprenants dans la rédaction d'une lettre de motivation adaptée à un poste cible, en insistant sur les aspects de personnalisation et de présentation de leurs atouts.
@@ -46,3 +48,5 @@ Les apprenants soumettent une version préliminaire de leur lettre pour recevoir
 __Total : 120 minutes__
 
 Cette séance permet aux apprenants de construire une lettre de motivation qui valorise leurs compétences et motivations pour un poste.
+
+**Nav** / [séance 1](seance1.md) | [séance 2](seance2.md) | [séance 3](seance3.md) | [séance 4](seance4.md) | [séance 5](seance5.md) | [séance 6](seance6.md) | [séance 7](seance7.md) | **séance 8** | [séance 9](seance9.md) | [séance 10](seance10.md) /
