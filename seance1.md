@@ -2,8 +2,7 @@
 Durée : 120 minutes
 
 ## 1. Temps de réflexion
-- **Contexte de l'enseignement** :
-
+- **Contexte de l'enseignement** :<br>
   Cette séance s’adresse à des adultes nouveaux arrivants qui découvrent les bases de l’utilisation d’un ordinateur. Elle se déroule en présentiel dans une salle équipée d’ordinateurs.
 - Objectifs :
   Permettre aux apprenants de :
