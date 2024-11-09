@@ -6,8 +6,8 @@ En équipe, vous allez présenter (en 6min maxi). un avant-projet, autrement dit
 
 1. la tâche actionnelle  (le produit final)
 2. le public cible (choisir et caractériser)
-3. les objectifs (en relation à un modèle de compétences, ex : CECRL, CARAP, REFIC, voir liens ci-dessous)
-4. la situation d'apprentissage (caractériser) / le modèle d'apprentissage (par exemple autoformation complémentaire, intégrée ou guidée, cf. diaporama du cours)
+3. les objectifs (en relation à un modèle de compétences, ex : CECRL, CARAP, REFIC)
+4. la situation d'apprentissage (caractériser) / le modèle d'apprentissage (par exemple autoformation complémentaire, intégrée ou guidée)
 5. un premier jet du scénario (étapes, sous-tâches, ressources,  aides et accompagnement, activités d'entrainement, rôle des échanges)
 
 
