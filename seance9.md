@@ -1,4 +1,4 @@
-# éance 9 : Préparation à un entretien d’embauche
+# Séance 9 : Préparation à un entretien d’embauche
 Durée : 120 minutes
 
 ## 1. Temps de réflexion
