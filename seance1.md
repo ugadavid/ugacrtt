@@ -1,7 +1,7 @@
 # Séance 1 : Découverte de l’ordinateur et initiation à l'utilisation basique
 Durée : 120 minutes
 
-**Nav** / [séance 2](seance2.md) | [séance 3](seance3.md) | [séance 4](seance4.md) | [séance 5](seance5.md) | [séance 6](seance6.md) | [séance 7](seance7.md) | [séance 8](seance8.md) | [séance 9](seance9.md) | [séance 10](seance10.md) /
+**Nav** / **séance 1** | [séance 2](seance2.md) | [séance 3](seance3.md) | [séance 4](seance4.md) | [séance 5](seance5.md) | [séance 6](seance6.md) | [séance 7](seance7.md) | [séance 8](seance8.md) | [séance 9](seance9.md) | [séance 10](seance10.md) /
 
 ## 1. Temps de réflexion
 - **Contexte de l'enseignement** :<br>
@@ -45,3 +45,5 @@ Durée : 120 minutes
 __Total : 120 minutes__
 
 Cette approche respecte le timing et renforce la confiance des apprenants dans leur apprentissage numérique de manière constructive.
+
+**Nav** / **séance 1** | [séance 2](seance2.md) | [séance 3](seance3.md) | [séance 4](seance4.md) | [séance 5](seance5.md) | [séance 6](seance6.md) | [séance 7](seance7.md) | [séance 8](seance8.md) | [séance 9](seance9.md) | [séance 10](seance10.md) /

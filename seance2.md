@@ -1,6 +1,8 @@
 # Séance 2 : Introduction aux outils de communication numérique
 Durée : 120 minutes
 
+**Nav** / [séance 1](seance1.md) | **séance 2** | [séance 3](seance3.md) | [séance 4](seance4.md) | [séance 5](seance5.md) | [séance 6](seance6.md) | [séance 7](seance7.md) | [séance 8](seance8.md) | [séance 9](seance9.md) | [séance 10](seance10.md) /
+
 ## 1. Temps de réflexion
 - **Contexte de l'enseignement** :<br>
   Cette séance s’adresse toujours aux nouveaux arrivants adultes. Elle se concentre sur l’utilisation d’un navigateur web et d’une boîte e-mail, avec une importance particulière sur la sécurité et la communication en ligne.
@@ -46,3 +48,5 @@ Un retour final avec un quiz rapide sur les étapes de création et de manipulat
 __Total : 120 minutes__
 
 Cette structuration pour la séance 2 garde le fil conducteur des compétences visées tout en assurant que les apprenants se sentent en sécurité dans leurs manipulations numériques.
+
+**Nav** / [séance 1](seance1.md) | **séance 2** | [séance 3](seance3.md) | [séance 4](seance4.md) | [séance 5](seance5.md) | [séance 6](seance6.md) | [séance 7](seance7.md) | [séance 8](seance8.md) | [séance 9](seance9.md) | [séance 10](seance10.md) /
