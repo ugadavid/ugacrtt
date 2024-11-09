@@ -1,6 +1,8 @@
 # Séance 3 : Apprendre à utiliser un traitement de texte
 Durée : 120 minutes
 
+**Nav** / [séance 1](seance1.md) | [séance 2](seance2.md) | **séance 3** | [séance 4](seance4.md) | [séance 5](seance5.md) | [séance 6](seance6.md) | [séance 7](seance7.md) | [séance 8](seance8.md) | [séance 9](seance9.md) | [séance 10](seance10.md) /
+
 ## 1. Temps de réflexion
 - **Contexte de l'enseignement** :<br>
 Cette séance, également en présentiel, vise à familiariser les apprenants avec les outils de traitement de texte (comme Word ou Google Docs) pour leur permettre de rédiger des documents professionnels simples.
@@ -46,3 +48,5 @@ Les exercices de mise en forme de texte et de sauvegarde sont directement liés 
 __Total : 120 minutes__
 
 Cette structuration permet d’atteindre les objectifs d’initiation au traitement de texte tout en consolidant les bases essentielles pour la rédaction de documents professionnels.
+
+**Nav** / [séance 1](seance1.md) | [séance 2](seance2.md) | **séance 3** | [séance 4](seance4.md) | [séance 5](seance5.md) | [séance 6](seance6.md) | [séance 7](seance7.md) | [séance 8](seance8.md) | [séance 9](seance9.md) | [séance 10](seance10.md) /
