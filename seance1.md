@@ -3,6 +3,8 @@ Durée : 120 minutes
 
 **Nav** / **séance 1** | [séance 2](seance2.md) | [séance 3](seance3.md) | [séance 4](seance4.md) | [séance 5](seance5.md) | [séance 6](seance6.md) | [séance 7](seance7.md) | [séance 8](seance8.md) | [séance 9](seance9.md) | [séance 10](seance10.md) /
 
+[Genially](https://view.genially.com/673eca1d80881c6a4561d97b/interactive-content-decouverte-de-lordinateur)
+
 ## 1. Temps de réflexion
 - **Contexte de l'enseignement** :<br>
   Cette séance s’adresse à des adultes nouveaux arrivants qui découvrent les bases de l’utilisation d’un ordinateur. Elle se déroule en présentiel dans une salle équipée d’ordinateurs.
@@ -45,6 +47,9 @@ Durée : 120 minutes
 __Total : 120 minutes__
 
 Cette approche respecte le timing et renforce la confiance des apprenants dans leur apprentissage numérique de manière constructive.
+
+
+[Genially](https://view.genially.com/673eca1d80881c6a4561d97b/interactive-content-decouverte-de-lordinateur)
 
 
 ## Illustrations
@@ -98,6 +103,7 @@ Cette approche respecte le timing et renforce la confiance des apprenants dans l
 
 
 
+[Genially](https://view.genially.com/673eca1d80881c6a4561d97b/interactive-content-decouverte-de-lordinateur)
 
 
 **Nav** / **séance 1** | [séance 2](seance2.md) | [séance 3](seance3.md) | [séance 4](seance4.md) | [séance 5](seance5.md) | [séance 6](seance6.md) | [séance 7](seance7.md) | [séance 8](seance8.md) | [séance 9](seance9.md) | [séance 10](seance10.md) /
