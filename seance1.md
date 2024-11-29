@@ -46,4 +46,58 @@ __Total : 120 minutes__
 
 Cette approche respecte le timing et renforce la confiance des apprenants dans leur apprentissage numérique de manière constructive.
 
+
+## Illustrations
+
+### 1. Objectifs de la séance
+- **Illustration** : Une image simple montrant un ordinateur, une souris et un clavier, accompagnée de mots-clés : "Allumer", "Écrire", "Naviguer".
+- **Option** : Un pictogramme ou une icône moderne pour chaque objectif.
+
+### 2. Introduction
+- **Illustration** : Un schéma ou une photo annotée des parties principales d’un ordinateur (écran, souris, clavier, unité centrale).
+- **Option** : Un nuage de mots avec des termes comme "ordinateur", "travail", "CV", "email".
+
+### 3. Allumer un ordinateur
+- **Illustration** : Photo ou dessin du bouton d’alimentation sur une unité centrale et un ordinateur portable.
+- **Option** : Flèche indiquant où appuyer.
+
+### 4. Éteindre un ordinateur
+- **Illustration** : Capture d’écran montrant le menu Démarrer ouvert avec l’option "Arrêter" mise en évidence.
+
+### 5. Utiliser une souris
+- **Illustration** : Une main utilisant une souris, avec des annotations "Clic gauche", "Clic droit", "Double-clic".
+- **Option** : Une capture d’écran montrant un curseur pointant une icône.
+
+### 6. Utiliser un clavier
+- **Illustration** : Photo d’un clavier annoté pour montrer les lettres, chiffres, et touches spéciales (Entrée, Espace, Effacer).
+- **Option** : Une main écrivant "Prénom" sur un éditeur de texte (capture d’écran ou simulation).
+
+### 7. Découvrir le bureau
+- **Illustration** : Capture d’écran d’un bureau d’ordinateur, avec des flèches pour indiquer les icônes et la barre des tâches.
+- **Option** : Icônes populaires comme un dossier, un navigateur (Chrome).
+
+### 8. Naviguer dans les fichiers
+- **Illustration** : Capture d’écran d’un dossier ouvert, avec un fichier nommé "photo".
+- **Option** : Une flèche montrant l’action "Double-clic".
+
+### 9. Résumé et questions
+- **Illustration** : Une icône représentant une lampe ou une idée pour symboliser l’apprentissage.
+- **Option** : Une simple liste récapitulative avec des icônes pour chaque compétence.
+
+### 10. Qu’est-ce que Moodle ?
+- **Illustration** : Capture d’écran de la page d’accueil de Moodle avec le logo visible.
+- **Option** : Icônes représentant "Cours", "Devoirs", et "Résultats".
+
+### 11. Se connecter à Moodle
+- **Illustration** : Capture d’écran de la page de connexion Moodle.
+- **Option** : Encadré autour des champs "Identifiant" et "Mot de passe".
+
+### 12. Retrouver vos devoirs sur Moodle
+- **Illustration** : Capture d’écran de la section "Mes cours", avec un exemple de devoir surligné.
+- **Option** : Flèches montrant le chemin pour accéder aux devoirs.
+
+
+
+
+
 **Nav** / **séance 1** | [séance 2](seance2.md) | [séance 3](seance3.md) | [séance 4](seance4.md) | [séance 5](seance5.md) | [séance 6](seance6.md) | [séance 7](seance7.md) | [séance 8](seance8.md) | [séance 9](seance9.md) | [séance 10](seance10.md) /
